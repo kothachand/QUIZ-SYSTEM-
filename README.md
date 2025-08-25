@@ -1,5 +1,6 @@
 # QUIZ-SYSTEM-
 The Quiz System is an online platform that allows admins to create and manage quizzes. It automates evaluation, provides instant results, and stores data securely, making assessments efficient, scalable, and user-friendly.
+
 Built using Python and MySQL for smooth integration.
 
 Supports Admin and User roles.
